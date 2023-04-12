@@ -4,7 +4,7 @@ The goal of this project is to simulate the experience of sitting with your best
 
 Accomplished so far:
 - Ingesting song feature data from Spotify API
-- Transforming song features
+- Transforming song features, dealing with duplicates and missing data, etc
 - Defining metric for recommendability of a song
 - Suggesting songs by recommendability, prompting user for whether they enjoyed a song
 
