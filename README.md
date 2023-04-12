@@ -1,8 +1,8 @@
-# Spotify-Sound-Guide
+# Spotify-Artist-Guide
 
-Spotify is currently criminally missing a feature to explore a new artist with the intention of finding a song of theirs to enjoy. Flipping through an artist's top tracks is not an alternative as many of the artist's top songs might be overly similar to each other and Spotify's popularity metric puts too much weight on recent releases.
+The goal of this project is to simulate the experience of sitting with your best friend on the couch as they introduce you to their favorite artist.
 
-The goal of my project is to simulate the experience of sitting with your best friend on the couch as they introduce you to their favorite artist.
+Spotify is currently criminally missing a feature to explore a new artist with the intention of finding a song of theirs to enjoy. Flipping through an artist's top tracks is not an alternative as many of the artist's top songs can be too similar to each other and Spotify's popularity metric arguably puts too much weight on recent releases.
 
 Accomplished so far:
 - Ingesting song features from Spotify API
