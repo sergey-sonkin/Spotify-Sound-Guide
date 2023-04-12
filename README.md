@@ -13,9 +13,9 @@ Accomplished so far:
 In progress:
 - An alternative to Spotify's missing popularity metric 
 - Additional song filtering (i.e interludes)
-- Storing song information in a local PostGresQL database to avoid duplicate lookups
+- Storing song information in a local PostGreSQL database to avoid duplicate lookups
 
 Goals down the road:
-- Additional metadata: cross referencing YTMusicAPI or applemusicapi for lyric and genre data
+- Additional metadata: cross referencing YTMusicAPI or AppleMusicAPI for lyric and genre data
 - NLP on aforementioned lyric data
 - Adding a web-based frontend with Flask (completely unfamiliar territory)
