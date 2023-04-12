@@ -18,4 +18,4 @@ In progress:
 Goals down the road:
 - Additional metadata: cross referencing YTMusicAPI or AppleMusicAPI for lyric and genre data
 - NLP on aforementioned lyric data
-- Adding a web-based frontend with Flask (completely unfamiliar territory)
+- Adding a web-based frontend with Flask with the help of ChatGPT4 (I've never developed a front end before)
