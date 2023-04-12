@@ -13,7 +13,7 @@ Accomplished so far:
 In progress:
 - An alternative to Spotify's missing popularity metric 
 - Additional song filtering (i.e interludes) to avoid "bad" suggestions
-- Storing song information in a local PostGreSQL database to avoid duplicate lookups
+- Creating a local PostGreSQL database to avoid duplicate lookups if we ever scale userbase
 
 Goals down the road:
 - Additional metadata: cross referencing YTMusicAPI or AppleMusicAPI for lyric and genre data
