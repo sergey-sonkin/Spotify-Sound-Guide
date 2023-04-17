@@ -11,15 +11,13 @@ Why doesn't Spotify do that? Not sure, but here's my attempt at doing just that 
 Accomplished so far:
 - Ingesting song features from Spotify API
 - Transforming song features, dealing with duplicates and missing data, etc
-- Defining metric for recommendability of a song
+- Defining metric for recommend ability of a song
 - Suggesting songs by recommendability, prompting user for whether they enjoyed a song
 
 In progress:
-- An alternative to Spotify's missing popularity metric 
-- Additional song filtering (i.e interludes) to avoid "bad" suggestions
-- A web-based frontend in Flask with the help of ChatGPT4
+- Cross referencing GeniusAPI for song lyrics for semantic analysis with BERT as feature
+- Compelling seaborn visualizations to contextualize recommendations within discography
 
-Goals down the road:
-- Creating a local PostGreSQL database to avoid duplicate lookups if we ever scale userbase
-- Additional metadata: cross referencing YTMusicAPI or AppleMusicAPI for lyric and genre data
-- NLP on aforementioned lyric data
+In the future:
+- A web-based frontend in Flask
+- A local PostGreSQL database to avoid duplicate lookups so we can scale userbase
