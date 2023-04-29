@@ -13,11 +13,12 @@ Accomplished so far:
 - Transforming song features, dealing with duplicates and missing data, etc
 - Defining metric for recommend ability of a song
 - Suggesting songs by recommendability, prompting user for whether they enjoyed a song
+- Cross referencing GeniusAPI for song lyrics for theme extraction with ChatGPT and embedding with BERT
 
 In progress:
-- Cross referencing GeniusAPI for song lyrics for semantic analysis with BERT as feature
-- Compelling seaborn visualizations to contextualize recommendations within discography
+- A local PostGreSQL database to avoid duplicate lookups so we can scale userbase
+- Rewrite from .ipynb to .py modules
 
 In the future:
+- Compelling seaborn visualizations to contextualize recommendations within discography
 - A web-based frontend in Flask
-- A local PostGreSQL database to avoid duplicate lookups so we can scale userbase
