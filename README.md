@@ -1,4 +1,4 @@
-# Spotify-Recommendation-Engine
+# Spotify Recommendation Engine
 
 Spotify is currently criminally missing a feature to explore a new artist with the intention of finding a song of theirs to enjoy. Flipping through that artist's top tracks is not a practical alternative as many of the artist's top songs can be too similar to each other and Spotify's popularity metric arguably puts too much weight on recent releases.
 
